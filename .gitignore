@@ -1,0 +1,30 @@
+# Local recordings and private configuration
+*.ts
+*.mp4
+*.mkv
+*.aac
+*.jpg
+*.png
+*.log
+*.log.*
+config.yaml
+state/
+diagnostics/
+recordings/
+captures/
+cache/
+tmp/
+
+# Build and package artifacts
+build/
+outputs/
+distribution/
+update-backups/
+*.partial
+*.bak
+*.orig
+*.pyc
+__pycache__/
+.DS_Store
+.AppleDouble
+._*
